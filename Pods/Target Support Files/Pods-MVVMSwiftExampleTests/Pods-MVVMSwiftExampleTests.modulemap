@@ -1,0 +1,6 @@
+framework module Pods_MVVMSwiftExampleTests {
+  umbrella header "Pods-MVVMSwiftExampleTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
